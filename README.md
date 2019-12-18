@@ -1,2 +1,2 @@
 # Site
-* [Click here](https://rodrasf.github.io/Site/home)
+* [Click here](https://rodrasf.github.io/Site/index)
