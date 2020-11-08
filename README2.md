@@ -8,10 +8,10 @@ Repositório com a resolução das séries do aluno 43499.
 
 ## Documentação técnica
 
-* [KeyedExchanger](##KeyedExchanger)
-* [BoundedCounterLatch](##BoundedCounterLatch)
-* [TransferQueue](##TransferQueue)
-* [KeyedThreadPoolExecutor](##KeyedThreadPoolExecutor)
+* [KeyedExchanger](#KeyedExchanger)
+* [BoundedCounterLatch](#BoundedCounterLatch)
+* [TransferQueue](#TransferQueue)
+* [KeyedThreadPoolExecutor](#KeyedThreadPoolExecutor)
 
 ---
 
